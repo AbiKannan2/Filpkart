@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T06:50:55Z" name="Suite" finished-at="2023-03-10T06:51:09Z" duration-ms="14469">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T06:50:55Z" name="Test" finished-at="2023-03-10T06:51:09Z" duration-ms="14469">
+      <class name="testcase.MouseOverOnSubmenus">
+        <test-method signature="gettingSubmenus()[pri:0, instance:testcase.MouseOverOnSubmenus@68b6f0d6]" started-at="2023-03-10T12:20:55Z" name="gettingSubmenus" finished-at="2023-03-10T12:21:09Z" duration-ms="14453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingSubmenus -->
+      </class> <!-- testcase.MouseOverOnSubmenus -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

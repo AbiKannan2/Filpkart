@@ -1,0 +1,3 @@
+commanLocators=\\src\\main\\java\\pageLocators\\PageLocators\\CommanLocators.prop
+loginPopup=\\src\\main\\java\\pageLocators\\PageLocators\\LoginPopup.prop
+homePage=\\src\\main\\java\\pageLocators\\PageLocators\\HomePage.prop

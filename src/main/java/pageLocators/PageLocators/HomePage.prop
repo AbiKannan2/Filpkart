@@ -1,0 +1,11 @@
+bannerImage=//div[@class='_3ChZRr _1rs5Pv']
+electronics=//span[text()='Electronics']
+tvsAndAppliances=//span[text()='TVs & Appliances']
+men=//span[text()='Men']
+women=//span[text()='Women']
+babyAndKids=//span[text()='Baby & Kids']
+homeAndFurniture//span[text()='Home & Furniture']
+sportsBooksAndMore//span[text()='Sports, Books & More']
+subMenus=//div/*[contains(@class,'_3QN6WI')]
+titles=//div[@class='_1QrT3s']/div/*[contains(@class,'_3QN6WI _1MMnri')]
+menus=//div[@class='_1kidPb']/span
